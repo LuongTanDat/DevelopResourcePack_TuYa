@@ -124,7 +124,6 @@
     <ClCompile Include="..\..\mcu_sdk_Lighting_Devices_20181101\mcu_api.c" />
     <ClCompile Include="..\..\mcu_sdk_Lighting_Devices_20181101\protocol.c" />
     <ClCompile Include="..\..\mcu_sdk_Lighting_Devices_20181101\system.c" />
-    <ClCompile Include="Source.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
